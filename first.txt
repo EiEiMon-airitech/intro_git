@@ -1,2 +1,4 @@
 Hello, I am learning git.!!
 基本的なワークフローを学習しています。
+.git add
+.git commit
